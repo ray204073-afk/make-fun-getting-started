@@ -12,9 +12,22 @@ This guide walks you from zero to your first entry.
 >
 > My referral code is `mmbvjbhq`.
 
+## Quick start in 5 minutes
+
+No time to read the whole guide? Here is the shortest path:
+
+1. **Sign up** with [my referral link](https://make.fun/r/mmbvjbhq) — GitHub, Google, Apple, Discord or a Solana wallet.
+2. **Pick a bounty** on the front page. Start with one marked free to enter and ending soon, so you learn the loop fast.
+3. **Grab its kit** — one download, no install beyond Node.js 22.
+4. **Build with your agent** in a fresh session, in a new public GitHub repository.
+5. **Submit** the repository and the transcripts, then check the status and fix anything it flags.
+
+That is the whole loop. The rest of this guide explains each step so nothing surprises you.
+
 ## Contents
 
 - [How make.fun works](#how-makefun-works)
+- [Quick start in 5 minutes](#quick-start-in-5-minutes)
 - [What you need](#what-you-need)
 - [1. Create your account](#1-create-your-account)
 - [2. Pick a bounty](#2-pick-a-bounty)
