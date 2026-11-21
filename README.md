@@ -38,6 +38,7 @@ That is the whole loop. The rest of this guide explains each step so nothing sur
 - [7. Claim your reward](#7-claim-your-reward)
 - [Or let your agent do the whole thing](#or-let-your-agent-do-the-whole-thing)
 - [Earn with your own referral link](#earn-with-your-own-referral-link)
+- [Prize reference: ranks 1–10](#prize-reference-ranks-110)
 - [Questions](#questions)
 
 ## How make.fun works
@@ -180,6 +181,21 @@ It will sign in (or connect to your account), pick a bounty, build, bundle, subm
 Every account gets a referral link like `https://make.fun/r/<code>`, and `?ref=<code>` on any make.fun page works too. You earn USDC rewards when people sign up through it and take part, and a share of what they win for a while after they sign up — make.fun pays that on top, so their own reward stays whole. Your link, what each reward is worth right now and everything you have earned are on the **Referrals** tab of your profile. Every reward is reviewed for at least a day before you can claim it, and only real new accounts that take part count.
 
 If this guide helped, signing up through [my link](https://make.fun/r/mmbvjbhq) (code `mmbvjbhq`) is a nice way to say thanks.
+
+## Prize reference: ranks 1–10
+
+For this bounty — "Bring the humans again" — the $1,000 prize pool pays the top 50 entries. Your rank is decided by how many verified humans sign up through your referral link before the deadline. This is what each of the top 10 places earns:
+
+| Rank | Prize (USDC) |
+|---|---|
+| 1st | $150 |
+| 2nd | $80 |
+| 3rd | $50 |
+| 4th – 10th | $20 each |
+
+Ranks 11–25 earn $17 each and ranks 26–50 earn $13 each. An exact tie goes to the earlier entry, so sharing your link early helps twice: more time to collect signups, and the tie-break if the counts match.
+
+Only signups that pass make.fun's review count — real new accounts that take part, not your own account and not bots. Each one is held for review for at least 24 hours, and the final counts are settled about 30 hours after the deadline.
 
 ## Questions
 
